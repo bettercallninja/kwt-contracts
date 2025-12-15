@@ -2,6 +2,11 @@
 
 KWT v2 is a TON blockchain jetton (token) contract with advanced features including burn mechanics and supply optimization. Fully TEP-74 compatible for exchange listing.
 
+> ⚠️ **SECURITY WARNING**  
+> Never commit or store real mnemonics, private keys, or other secrets in this repository.  
+> Any `WALLET_MNEMONIC` usage in this project is for **local testing only**.  
+> For mainnet operations, prefer **TON Connect** or **multisig signing**, and keep all secrets outside of source control.
+
 ## 📁 Project Structure
 
 ```
@@ -89,6 +94,11 @@ npx blueprint run
 
 **Important:**
 - **For Configure and Initial Allocation**: Transactions MUST be sent from the multisig owner wallet
+
+> ⚠️ **SECURITY WARNING**  
+> Never commit or store real mnemonics, private keys, or other secrets in this repository.  
+> Any `WALLET_MNEMONIC` examples below are for **local testing only**.  
+> For mainnet operations, prefer **TON Connect** or **multisig signing**, and keep all secrets outside of source control.
 
 **Using Mnemonic (recommended):**
 ```powershell
