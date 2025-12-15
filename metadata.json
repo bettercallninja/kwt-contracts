@@ -1,0 +1,12 @@
+{
+  "name": "KIWI Token",
+  "symbol": "KWT",
+  "description": "KWT is the main utility and governance token of the KIWI ecosystem on the TON blockchain.",
+  "decimals": 9,
+  "image": "https://kiwi.eu.com/kwt/kwt-logo.webp",
+  "external_url": "https://kiwi.eu.com",
+  "social": {
+    "telegram": "https://t.me/kiwitalkshow",
+    "twitter": "https://x.com/kiwitalkshow"
+  }
+}
